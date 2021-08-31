@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Estudiante/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Estudiante.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Estudiante.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Estudiante/1.0.0": {
+      "type": "project",
+      "path": "../Estudiante/Estudiante.csproj",
+      "msbuildProject": "../Estudiante/Estudiante.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Estudiante >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\elian\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elian\\source\\repos\\elEjemploUniversal\\elEjemploUniversal\\elEjemploUniversal.csproj",
+      "projectUniqueName": "C:\\Users\\elian\\Source\\Repos\\Temes.Elian.Repo2DLaboProgra\\ejemploUniversal\\elEjemploUniversal\\elEjemploUniversal.csproj",
       "projectName": "elEjemploUniversal",
-      "projectPath": "C:\\Users\\elian\\source\\repos\\elEjemploUniversal\\elEjemploUniversal\\elEjemploUniversal.csproj",
+      "projectPath": "C:\\Users\\elian\\Source\\Repos\\Temes.Elian.Repo2DLaboProgra\\ejemploUniversal\\elEjemploUniversal\\elEjemploUniversal.csproj",
       "packagesPath": "C:\\Users\\elian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elian\\source\\repos\\elEjemploUniversal\\elEjemploUniversal\\obj\\",
+      "outputPath": "C:\\Users\\elian\\Source\\Repos\\Temes.Elian.Repo2DLaboProgra\\ejemploUniversal\\elEjemploUniversal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\elian\\Source\\Repos\\Temes.Elian.Repo2DLaboProgra\\ejemploUniversal\\Estudiante\\Estudiante.csproj": {
+              "projectPath": "C:\\Users\\elian\\Source\\Repos\\Temes.Elian.Repo2DLaboProgra\\ejemploUniversal\\Estudiante\\Estudiante.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

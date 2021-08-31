@@ -1,0 +1,12 @@
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\bin\Debug\net5.0\Estudiante.deps.json
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\bin\Debug\net5.0\Estudiante.dll
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\bin\Debug\net5.0\ref\Estudiante.dll
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\bin\Debug\net5.0\Estudiante.pdb
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\obj\Debug\net5.0\Estudiante.csproj.AssemblyReference.cache
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\obj\Debug\net5.0\Estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\obj\Debug\net5.0\Estudiante.AssemblyInfoInputs.cache
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\obj\Debug\net5.0\Estudiante.AssemblyInfo.cs
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\obj\Debug\net5.0\Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\obj\Debug\net5.0\Estudiante.dll
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\obj\Debug\net5.0\ref\Estudiante.dll
+C:\Users\elian\Source\Repos\Temes.Elian.Repo2DLaboProgra\ejemploUniversal\Estudiante\obj\Debug\net5.0\Estudiante.pdb

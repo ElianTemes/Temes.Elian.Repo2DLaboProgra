@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Estudiantes
 {
@@ -48,7 +49,31 @@ namespace Estudiantes
 
         public string Mostrar()
         {
+            StringBuilder sb = new StringBuilder("", 300);
+            sb.AppendFormat("Nombre: {0}", nombre);
+            sb.AppendLine();
+            sb.AppendFormat("Apellido: {0}", apellido);
+            sb.AppendLine();
+            sb.AppendFormat("Legajo: {0}", legajo);
+            sb.AppendLine();
+            sb.AppendFormat("Nota primer parcial: {0}", notaPrimerParcial);
+            sb.AppendLine();
+            sb.AppendFormat("Nota segundo parcial: {0}", notaSegundoParcial);
+            sb.AppendLine();
+            sb.AppendFormat("Promedio: {0}", CalcularPromedio());
+            sb.AppendLine();
+            float auxNotaF = CalcularNotaFinal();
+            if(!(auxNotaF == -1))
+            {
+                sb.AppendFormat("Nota final: {0}", auxNotaF);
+            }
+            else
+            {
+                sb.Append("Alumno desaprobado!");
+            }
+            string cadenaAlumno = sb.ToString();
 
+            return cadenaAlumno;
         }
     }
 }
