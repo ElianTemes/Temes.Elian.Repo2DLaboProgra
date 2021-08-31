@@ -1,0 +1,16 @@
+D:\ReposC#\cuadradoCubo\cuadradoCubo\bin\Debug\net5.0\cuadradoCubo.exe
+D:\ReposC#\cuadradoCubo\cuadradoCubo\bin\Debug\net5.0\cuadradoCubo.deps.json
+D:\ReposC#\cuadradoCubo\cuadradoCubo\bin\Debug\net5.0\cuadradoCubo.runtimeconfig.json
+D:\ReposC#\cuadradoCubo\cuadradoCubo\bin\Debug\net5.0\cuadradoCubo.runtimeconfig.dev.json
+D:\ReposC#\cuadradoCubo\cuadradoCubo\bin\Debug\net5.0\cuadradoCubo.dll
+D:\ReposC#\cuadradoCubo\cuadradoCubo\bin\Debug\net5.0\ref\cuadradoCubo.dll
+D:\ReposC#\cuadradoCubo\cuadradoCubo\bin\Debug\net5.0\cuadradoCubo.pdb
+D:\ReposC#\cuadradoCubo\cuadradoCubo\obj\Debug\net5.0\cuadradoCubo.csproj.AssemblyReference.cache
+D:\ReposC#\cuadradoCubo\cuadradoCubo\obj\Debug\net5.0\cuadradoCubo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReposC#\cuadradoCubo\cuadradoCubo\obj\Debug\net5.0\cuadradoCubo.AssemblyInfoInputs.cache
+D:\ReposC#\cuadradoCubo\cuadradoCubo\obj\Debug\net5.0\cuadradoCubo.AssemblyInfo.cs
+D:\ReposC#\cuadradoCubo\cuadradoCubo\obj\Debug\net5.0\cuadradoCubo.csproj.CoreCompileInputs.cache
+D:\ReposC#\cuadradoCubo\cuadradoCubo\obj\Debug\net5.0\cuadradoCubo.dll
+D:\ReposC#\cuadradoCubo\cuadradoCubo\obj\Debug\net5.0\ref\cuadradoCubo.dll
+D:\ReposC#\cuadradoCubo\cuadradoCubo\obj\Debug\net5.0\cuadradoCubo.pdb
+D:\ReposC#\cuadradoCubo\cuadradoCubo\obj\Debug\net5.0\cuadradoCubo.genruntimeconfig.cache

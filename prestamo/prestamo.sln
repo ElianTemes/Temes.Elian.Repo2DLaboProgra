@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prestamo", "prestamo\prestamo.csproj", "{E5E840CE-7B38-48F6-B631-47900F0CE961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuenta", "Cuenta\Cuenta.csproj", "{84860680-4C49-4933-B411-260DF7D8618B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5E840CE-7B38-48F6-B631-47900F0CE961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E840CE-7B38-48F6-B631-47900F0CE961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E840CE-7B38-48F6-B631-47900F0CE961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E840CE-7B38-48F6-B631-47900F0CE961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84860680-4C49-4933-B411-260DF7D8618B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84860680-4C49-4933-B411-260DF7D8618B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84860680-4C49-4933-B411-260DF7D8618B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84860680-4C49-4933-B411-260DF7D8618B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CC9685D-91F9-41EE-8360-FE343AD6AB3A}
+	EndGlobalSection
+EndGlobal

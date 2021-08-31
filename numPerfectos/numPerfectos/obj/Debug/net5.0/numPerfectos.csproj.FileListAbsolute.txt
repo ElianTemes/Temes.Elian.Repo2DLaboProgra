@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\bin\Debug\net5.0\numPerfectos.exe
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\bin\Debug\net5.0\numPerfectos.deps.json
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\bin\Debug\net5.0\numPerfectos.runtimeconfig.json
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\bin\Debug\net5.0\numPerfectos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\bin\Debug\net5.0\numPerfectos.dll
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\bin\Debug\net5.0\ref\numPerfectos.dll
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\bin\Debug\net5.0\numPerfectos.pdb
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\obj\Debug\net5.0\numPerfectos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\obj\Debug\net5.0\numPerfectos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\obj\Debug\net5.0\numPerfectos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\obj\Debug\net5.0\numPerfectos.AssemblyInfo.cs
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\obj\Debug\net5.0\numPerfectos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\obj\Debug\net5.0\numPerfectos.dll
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\obj\Debug\net5.0\ref\numPerfectos.dll
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\obj\Debug\net5.0\numPerfectos.pdb
+C:\Users\elian\source\repos\numPerfectos\numPerfectos\obj\Debug\net5.0\numPerfectos.genruntimeconfig.cache

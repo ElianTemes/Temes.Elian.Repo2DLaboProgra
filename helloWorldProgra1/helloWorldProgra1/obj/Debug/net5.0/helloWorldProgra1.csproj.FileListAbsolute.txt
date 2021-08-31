@@ -1,0 +1,16 @@
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\bin\Debug\net5.0\helloWorldProgra1.exe
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\bin\Debug\net5.0\helloWorldProgra1.deps.json
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\bin\Debug\net5.0\helloWorldProgra1.runtimeconfig.json
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\bin\Debug\net5.0\helloWorldProgra1.runtimeconfig.dev.json
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\bin\Debug\net5.0\helloWorldProgra1.dll
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\bin\Debug\net5.0\ref\helloWorldProgra1.dll
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\bin\Debug\net5.0\helloWorldProgra1.pdb
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\obj\Debug\net5.0\helloWorldProgra1.csproj.AssemblyReference.cache
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\obj\Debug\net5.0\helloWorldProgra1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\obj\Debug\net5.0\helloWorldProgra1.AssemblyInfoInputs.cache
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\obj\Debug\net5.0\helloWorldProgra1.AssemblyInfo.cs
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\obj\Debug\net5.0\helloWorldProgra1.csproj.CoreCompileInputs.cache
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\obj\Debug\net5.0\helloWorldProgra1.dll
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\obj\Debug\net5.0\ref\helloWorldProgra1.dll
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\obj\Debug\net5.0\helloWorldProgra1.pdb
+D:\ReposC#\helloWorldProgra1\helloWorldProgra1\obj\Debug\net5.0\helloWorldProgra1.genruntimeconfig.cache

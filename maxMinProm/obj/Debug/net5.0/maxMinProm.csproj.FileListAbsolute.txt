@@ -1,0 +1,16 @@
+D:\ReposC#\maxMinProm\obj\Debug\net5.0\maxMinProm.csproj.AssemblyReference.cache
+D:\ReposC#\maxMinProm\obj\Debug\net5.0\maxMinProm.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReposC#\maxMinProm\obj\Debug\net5.0\maxMinProm.AssemblyInfoInputs.cache
+D:\ReposC#\maxMinProm\obj\Debug\net5.0\maxMinProm.AssemblyInfo.cs
+D:\ReposC#\maxMinProm\obj\Debug\net5.0\maxMinProm.csproj.CoreCompileInputs.cache
+D:\ReposC#\maxMinProm\bin\Debug\net5.0\maxMinProm.exe
+D:\ReposC#\maxMinProm\bin\Debug\net5.0\maxMinProm.deps.json
+D:\ReposC#\maxMinProm\bin\Debug\net5.0\maxMinProm.runtimeconfig.json
+D:\ReposC#\maxMinProm\bin\Debug\net5.0\maxMinProm.runtimeconfig.dev.json
+D:\ReposC#\maxMinProm\bin\Debug\net5.0\maxMinProm.dll
+D:\ReposC#\maxMinProm\bin\Debug\net5.0\ref\maxMinProm.dll
+D:\ReposC#\maxMinProm\bin\Debug\net5.0\maxMinProm.pdb
+D:\ReposC#\maxMinProm\obj\Debug\net5.0\maxMinProm.dll
+D:\ReposC#\maxMinProm\obj\Debug\net5.0\ref\maxMinProm.dll
+D:\ReposC#\maxMinProm\obj\Debug\net5.0\maxMinProm.pdb
+D:\ReposC#\maxMinProm\obj\Debug\net5.0\maxMinProm.genruntimeconfig.cache
