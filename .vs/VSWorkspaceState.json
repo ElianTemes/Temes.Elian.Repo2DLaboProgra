@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\elEjemploUniversal",
+    "\\elEjemploUniversal\\elEjemploUniversal",
+    "\\elEjemploUniversal\\elEjemploUniversal\\obj\\Debug"
   ],
-  "SelectedNode": "\\C:\\Users\\elian\\Source\\Repos\\Temes.Elian.Repo2DLaboProgra",
+  "SelectedNode": "\\elEjemploUniversal",
   "PreviewInSolutionExplorer": false
 }
