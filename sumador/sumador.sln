@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumador", "sumador\sumador.csproj", "{2FD67DE1-F2AF-4DBB-9086-A9C75B0479B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumadorcl", "Sumadorcl\Sumadorcl.csproj", "{9A423E24-BD32-4662-B2A6-C6BFA63E3027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD67DE1-F2AF-4DBB-9086-A9C75B0479B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD67DE1-F2AF-4DBB-9086-A9C75B0479B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD67DE1-F2AF-4DBB-9086-A9C75B0479B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD67DE1-F2AF-4DBB-9086-A9C75B0479B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A423E24-BD32-4662-B2A6-C6BFA63E3027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A423E24-BD32-4662-B2A6-C6BFA63E3027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A423E24-BD32-4662-B2A6-C6BFA63E3027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A423E24-BD32-4662-B2A6-C6BFA63E3027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6470E6F7-87E8-4733-A835-A7013D69390B}
+	EndGlobalSection
+EndGlobal

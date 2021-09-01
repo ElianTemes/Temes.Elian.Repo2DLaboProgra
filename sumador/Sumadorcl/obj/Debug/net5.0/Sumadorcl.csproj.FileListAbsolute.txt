@@ -1,0 +1,12 @@
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\obj\Debug\net5.0\Sumadorcl.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\obj\Debug\net5.0\Sumadorcl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\obj\Debug\net5.0\Sumadorcl.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\obj\Debug\net5.0\Sumadorcl.AssemblyInfo.cs
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\obj\Debug\net5.0\Sumadorcl.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\bin\Debug\net5.0\Sumadorcl.deps.json
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\bin\Debug\net5.0\Sumadorcl.dll
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\bin\Debug\net5.0\ref\Sumadorcl.dll
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\bin\Debug\net5.0\Sumadorcl.pdb
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\obj\Debug\net5.0\Sumadorcl.dll
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\obj\Debug\net5.0\ref\Sumadorcl.dll
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\sumador\Sumadorcl\obj\Debug\net5.0\Sumadorcl.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sumador/1.0.0": {
+        "dependencies": {
+          "Sumadorcl": "1.0.0"
+        },
+        "runtime": {
+          "sumador.dll": {}
+        }
+      },
+      "Sumadorcl/1.0.0": {
+        "runtime": {
+          "Sumadorcl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sumador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sumadorcl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
