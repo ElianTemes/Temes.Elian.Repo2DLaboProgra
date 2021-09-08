@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\numsLocos\\numsLocos\\aContarPalabras.csproj",
+      "projectUniqueName": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\contadorPalabras\\numsLocos\\aContarPalabras.csproj",
       "projectName": "aContarPalabras",
-      "projectPath": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\numsLocos\\numsLocos\\aContarPalabras.csproj",
+      "projectPath": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\contadorPalabras\\numsLocos\\aContarPalabras.csproj",
       "packagesPath": "C:\\Users\\elian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\numsLocos\\numsLocos\\obj\\",
+      "outputPath": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\contadorPalabras\\numsLocos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elian\\AppData\\Roaming\\NuGet\\NuGet.Config",
