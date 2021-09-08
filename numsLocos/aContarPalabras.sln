@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aContarPalabras", "numsLocos\aContarPalabras.csproj", "{A7CD86D4-11D6-4031-9487-94FEF6963E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CD86D4-11D6-4031-9487-94FEF6963E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CD86D4-11D6-4031-9487-94FEF6963E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CD86D4-11D6-4031-9487-94FEF6963E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CD86D4-11D6-4031-9487-94FEF6963E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76107ADB-DFAF-48F6-A97D-3C8AB93A7365}
+	EndGlobalSection
+EndGlobal
