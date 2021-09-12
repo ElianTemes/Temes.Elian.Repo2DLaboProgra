@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Lapicera
 {
@@ -10,7 +11,14 @@ namespace Lapicera
 
         public Boligrafo(short tinta, ConsoleColor Color)
         {
-            this.tinta = tinta;
+            if(tinta <= cantidadTintaMaximo)
+            {
+                this.tinta = tinta;
+            }
+            else
+            {
+                this.tinta = cantidadTintaMaximo;
+            }
             this.Color = Color;
         }
 
@@ -34,6 +42,28 @@ namespace Lapicera
             short tinta = GetTinta();
             tinta = (short)(cantidadTintaMaximo - tinta);
             SetTinta(tinta);
+        }
+        public bool Pintar(short gasto, out string dibujo)
+        {
+            StringBuilder sb = new StringBuilder();
+            short tinta = GetTinta();
+            if (gasto == 0 || gasto < 0 || tinta == 0 || tinta < 0)
+            {
+                sb.Append("No se pinto nada");
+                dibujo = sb.ToString();
+                return false;
+            }
+            while(tinta > 0 && gasto > 0)
+            {                
+                gasto--;
+                tinta--;
+                sb.Append("*");
+            }
+            ConsoleColor Color = GetColor();
+            Console.ForegroundColor = Color;
+            SetTinta(tinta);
+            dibujo = sb.ToString();
+            return true;
         }
     }
 }

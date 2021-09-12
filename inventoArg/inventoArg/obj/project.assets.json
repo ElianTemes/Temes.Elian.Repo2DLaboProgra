@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Boligrafo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Boligrafo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Boligrafo.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Boligrafo/1.0.0": {
+      "type": "project",
+      "path": "../Boligrafo/Boligrafo.csproj",
+      "msbuildProject": "../Boligrafo/Boligrafo.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Boligrafo >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\elian\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\inventoArg\\Boligrafo\\Boligrafo.csproj": {
+              "projectPath": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\inventoArg\\Boligrafo\\Boligrafo.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

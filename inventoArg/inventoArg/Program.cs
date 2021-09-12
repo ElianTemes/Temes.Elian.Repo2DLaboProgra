@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lapicera;
+using System;
 
 namespace inventoArg
 {
@@ -6,7 +7,18 @@ namespace inventoArg
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Boligrafo LapizAzul = new Boligrafo(100, ConsoleColor.Blue);
+            Boligrafo LapizRojo = new Boligrafo(0, ConsoleColor.Red);
+            string pintura;
+            if (LapizRojo.Pintar(50, out pintura))
+            {
+                Console.WriteLine(pintura);
+                Console.ResetColor();
+            }
+            else 
+            {
+                Console.WriteLine($"{pintura}, gil");
+            }
         }
     }
 }
