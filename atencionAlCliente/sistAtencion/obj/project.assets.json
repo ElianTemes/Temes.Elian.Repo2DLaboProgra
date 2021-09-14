@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "BibliotecaAtencion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BibliotecaAtencion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaAtencion.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BibliotecaAtencion/1.0.0": {
+      "type": "project",
+      "path": "../atencionAlCliente/BibliotecaAtencion.csproj",
+      "msbuildProject": "../atencionAlCliente/BibliotecaAtencion.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "BibliotecaAtencion >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\elian\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\atencionAlCliente\\atencionAlCliente\\BibliotecaAtencion.csproj",
-      "projectName": "BibliotecaAtencion",
-      "projectPath": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\atencionAlCliente\\atencionAlCliente\\BibliotecaAtencion.csproj",
+      "projectUniqueName": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\atencionAlCliente\\sistAtencion\\sistAtencion.csproj",
+      "projectName": "sistAtencion",
+      "projectPath": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\atencionAlCliente\\sistAtencion\\sistAtencion.csproj",
       "packagesPath": "C:\\Users\\elian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\atencionAlCliente\\atencionAlCliente\\obj\\",
+      "outputPath": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\atencionAlCliente\\sistAtencion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\atencionAlCliente\\atencionAlCliente\\BibliotecaAtencion.csproj": {
+              "projectPath": "C:\\Users\\elian\\source\\repos\\Temes.Elian.Repo2DLaboProgra\\atencionAlCliente\\atencionAlCliente\\BibliotecaAtencion.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

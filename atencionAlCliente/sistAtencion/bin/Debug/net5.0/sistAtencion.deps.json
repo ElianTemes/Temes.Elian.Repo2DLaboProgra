@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sistAtencion/1.0.0": {
+        "dependencies": {
+          "BibliotecaAtencion": "1.0.0"
+        },
+        "runtime": {
+          "sistAtencion.dll": {}
+        }
+      },
+      "BibliotecaAtencion/1.0.0": {
+        "runtime": {
+          "BibliotecaAtencion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sistAtencion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaAtencion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

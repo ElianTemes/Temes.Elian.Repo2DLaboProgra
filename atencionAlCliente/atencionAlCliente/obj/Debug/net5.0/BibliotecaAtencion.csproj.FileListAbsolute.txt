@@ -1,0 +1,11 @@
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\bin\Debug\net5.0\BibliotecaAtencion.deps.json
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\bin\Debug\net5.0\BibliotecaAtencion.dll
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\bin\Debug\net5.0\ref\BibliotecaAtencion.dll
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\bin\Debug\net5.0\BibliotecaAtencion.pdb
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\obj\Debug\net5.0\BibliotecaAtencion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\obj\Debug\net5.0\BibliotecaAtencion.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\obj\Debug\net5.0\BibliotecaAtencion.AssemblyInfo.cs
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\obj\Debug\net5.0\BibliotecaAtencion.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\obj\Debug\net5.0\BibliotecaAtencion.dll
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\obj\Debug\net5.0\ref\BibliotecaAtencion.dll
+C:\Users\elian\source\repos\Temes.Elian.Repo2DLaboProgra\atencionAlCliente\atencionAlCliente\obj\Debug\net5.0\BibliotecaAtencion.pdb

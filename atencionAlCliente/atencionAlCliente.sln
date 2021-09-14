@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atencionAlCliente", "atencionAlCliente\atencionAlCliente.csproj", "{76557AF2-06A9-47D4-9A35-24496B90C390}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaAtencion", "atencionAlCliente\BibliotecaAtencion.csproj", "{76557AF2-06A9-47D4-9A35-24496B90C390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistAtencion", "sistAtencion\sistAtencion.csproj", "{7FAB11F2-2877-440D-A0BE-F49A5FFB9781}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{76557AF2-06A9-47D4-9A35-24496B90C390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76557AF2-06A9-47D4-9A35-24496B90C390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76557AF2-06A9-47D4-9A35-24496B90C390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAB11F2-2877-440D-A0BE-F49A5FFB9781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAB11F2-2877-440D-A0BE-F49A5FFB9781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAB11F2-2877-440D-A0BE-F49A5FFB9781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAB11F2-2877-440D-A0BE-F49A5FFB9781}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

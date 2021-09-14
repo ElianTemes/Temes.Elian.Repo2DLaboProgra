@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace atencionAlCliente
+namespace BibliotecaAtencion
 {
     public class PuestoAtencion
     {
