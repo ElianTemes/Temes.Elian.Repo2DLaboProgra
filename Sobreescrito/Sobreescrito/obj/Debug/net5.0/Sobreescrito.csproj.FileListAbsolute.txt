@@ -1,0 +1,15 @@
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\obj\Debug\net5.0\Sobreescrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\obj\Debug\net5.0\Sobreescrito.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\obj\Debug\net5.0\Sobreescrito.AssemblyInfo.cs
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\obj\Debug\net5.0\Sobreescrito.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\bin\Debug\net5.0\Sobreescrito.exe
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\bin\Debug\net5.0\Sobreescrito.deps.json
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\bin\Debug\net5.0\Sobreescrito.runtimeconfig.json
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\bin\Debug\net5.0\Sobreescrito.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\bin\Debug\net5.0\Sobreescrito.dll
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\bin\Debug\net5.0\ref\Sobreescrito.dll
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\bin\Debug\net5.0\Sobreescrito.pdb
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\obj\Debug\net5.0\Sobreescrito.dll
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\obj\Debug\net5.0\ref\Sobreescrito.dll
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\obj\Debug\net5.0\Sobreescrito.pdb
+C:\Users\elian\source\repos\Sobreescrito\Sobreescrito\obj\Debug\net5.0\Sobreescrito.genruntimeconfig.cache
